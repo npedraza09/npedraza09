@@ -27,6 +27,7 @@ Data Engineering, Science, or Analysis projects. Also, highly interested in Mach
 
 # ⚡ Fun facts about me:
 - Fluent in English and Spanish
+- I have dual citizenship: Canadian and Colombian
 - Have lived in 3 countries and visited over 26
 - I did a 3-month intense and immersive leadership program in the back country side of Alaska (Sea Kayaking, Mountaineering, Backpacking)
 - I enjoy talking about anything!
