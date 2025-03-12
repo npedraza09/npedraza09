@@ -35,5 +35,5 @@ Data Engineering, Science, or Analysis projects. Also, highly interested in Mach
 # 📫 How to reach me:
 - <a href="https://www.linkedin.com/in/nicolas-pedrazab/">LinkedIn Profile</a>
 - npedraza092002@gmail.com
-- <a href="https://drive.google.com/file/d/1Mhs1ygsL9J66KkvP2M_71cnQkmwFa01x/view">Master CV</a>
+- <a href="https://drive.google.com/file/d/1_qf4vN1TRsCthzAyqxW6ZR_lQ9ZyBQFo/view?usp=drive_link">Master CV</a>
 
