@@ -20,7 +20,7 @@ I’m a passionate Data Engineer and Mechanical Engineer with an aptitude for tr
 - Real-Time IoT Data Streaming
 
 # 🌱 I’m currently learning:
-AWS Cloud Essentials.
+Pair programming with AI.
 
 # 🤝 I’m looking to collaborate on:
 Data Engineering, Science, or Analysis projects. Also, highly interested in Machine Learning and AI related projects.
