@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 😃 About Me:
-I’m a passionate Data Engineer and Mechanical Engineer with an aptitude for transforming complex data into meaningful insights. From my Mechanical Engineering degree I developed many skills, but the two skills that I believe to be the most important out of all of those obtained from my degree are: critical thinking and problem solving. With a growing passion for AI, cloud computing, and data, I decided to transfer those skills to Data Engineering. Now, with a Professional Certificate in Data Engineering from MIT xPro, I’ve built real-world solutions ranging from real-time streaming with a containerized Kafka ecosystem to predictive modeling and secure web applications. I thrive on crafting scalable data pipelines, bringing meaningful insights from data, and harnessing the power of AI. I’m excited to explore innovative opportunities as a Data Analyst, Engineer, or Scientist, and collaborate on projects that drive impactful change.
+I’m an Operations Systems Engineer / Data Engineer who builds automation, integrations, and data pipelines that make operations faster and more reliable. I use Python, SQL, Airflow, Docker, Flask, and n8n to connect systems, standardize data, and ship tools like dashboards, trackers, and APIs that drive measurable improvements. Bilingual (EN/ES) and always tinkering with AI + automation projects..
 
 # 💻 Tech Stack:
 - **Languages**:   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
@@ -18,6 +18,7 @@ I’m a passionate Data Engineer and Mechanical Engineer with an aptitude for tr
 - Sensemaking Data Pipeline
 - Streaming and Analyzing Live Data
 - Real-Time IoT Data Streaming
+- Order Process Automation with N8N
 
 # 🌱 I’m currently learning:
 Pair programming with AI.
