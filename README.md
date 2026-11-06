@@ -26,12 +26,12 @@ From my MIT Professional Certificate in Data Engineering (2024–2025):
 
 ## Tools
 
-- **AI and automation:** Claude (Sonnet, Opus), Claude Code, Anthropic API, MCP, n8n
+- **AI and automation:** Claude Cowork, Claude Code, Anthropic API, MCP, n8n
 - **Code and data:** Python, SQL, JavaScript, Google Apps Script, Google Cloud, Docker, Airflow, MySQL
 
 ## About me
 
-Mechanical engineer (Loyola Marymount University) with MIT xPRO certificates in data engineering and in supply chain management (leading with AI and digital transformation). Native Spanish speaker; I grew up in Bogotá and have lived in three countries. I spent three months on a NOLS expedition in the Alaska backcountry: sea kayaking, mountaineering and backpacking.
+Mechanical engineer (Loyola Marymount University) with MIT xPRO certificates in data engineering and in supply chain management (leading with AI and digital transformation). Native Spanish speaker; I was born in Canada, grew up in Bogotá and have lived in three countries. I spent three months on a NOLS expedition in the Alaska backcountry: sea kayaking, mountaineering and backpacking.
 
 ## Contact
 
