@@ -31,7 +31,7 @@ From my MIT Professional Certificate in Data Engineering (2024–2025):
 
 ## About me
 
-Mechanical engineer (Loyola Marymount University) with MIT professional certificates in data engineering and supply chain digitalization. Native Spanish speaker; I grew up in Bogotá and have lived in three countries. I spent three months on a NOLS expedition in the Alaska backcountry: sea kayaking, mountaineering and backpacking.
+Mechanical engineer (Loyola Marymount University) with MIT xPRO certificates in data engineering and in supply chain management (leading with AI and digital transformation). Native Spanish speaker; I grew up in Bogotá and have lived in three countries. I spent three months on a NOLS expedition in the Alaska backcountry: sea kayaking, mountaineering and backpacking.
 
 ## Contact
 
