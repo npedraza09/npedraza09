@@ -27,7 +27,7 @@ From my MIT Professional Certificate in Data Engineering (2024–2025):
 ## Tools
 
 - **AI and automation:** Claude (Sonnet, Opus), Claude Code, Anthropic API, MCP, n8n
-- **Code and data:** Python, SQL, JavaScript, Google Apps Script, Google Cloud, Docker, Airflow, Kafka, MySQL, MongoDB, Flask
+- **Code and data:** Python, SQL, JavaScript, Google Apps Script, Google Cloud, Docker, Airflow, MySQL
 
 ## About me
 
