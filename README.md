@@ -26,7 +26,7 @@ From my MIT Professional Certificate in Data Engineering (2024–2025):
 
 ## Tools
 
-- **AI and automation:** Claude Cowork, Claude Code, Anthropic API, MCP, n8n
+- **AI and automation:** Claude, Claude Code, Anthropic API, MCP, n8n
 - **Code and data:** Python, SQL, JavaScript, Google Apps Script, Google Cloud, Docker, Airflow, MySQL
 
 ## About me
