@@ -1,39 +1,38 @@
-## Hi there 👋
+# Nicolas Pedraza
 
-# 😃 About Me:
-I’m an Operations Systems Engineer / Data Engineer who builds automation, integrations, and data pipelines that make operations faster and more reliable. I use Python, SQL, Airflow, Docker, Flask, and n8n to connect systems, standardize data, and ship tools like dashboards, trackers, and APIs that drive measurable improvements. Bilingual (EN/ES) and always tinkering with AI + automation projects..
+Business Operations & Systems Lead at Art of Drawers, a 2026 Inc. 5000 franchise company with 46 locations. I build the systems that keep a growing franchise network running: order management, supply chain and freight, and the AI agents and automations that connect them.
 
-# 💻 Tech Stack:
-- **Languages**:   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-- **Libraries/Frameworks**:   ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/matplotlib-11557c?style=for-the-badge&logo=Matplotlib&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Flask](https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-- **Developer Tools**:   ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
+## Selected work
 
-# 🚀 Personal Projects:
-- Model to Predict Housing Prices
-- ETL, Analysis, and Visualization of MRTS Data
-- Web Server App for Flight Data
-- Books Web Application
-- Transit Data Application
-- Sensemaking Data Pipeline
-- Streaming and Analyzing Live Data
-- Real-Time IoT Data Streaming
-- Order Process Automation with N8N
+The code for these runs inside company systems, so it stays private.
 
-# 🌱 I’m currently learning:
-Pair programming with AI.
+- **Order processing system** (n8n, Python on Google Cloud, Google Sheets, Apps Script). Validates each custom order, routes every line to a manufacturer that can build it, submits it and tracks it through shipment. Cut processing from 45 minutes to 15 seconds per order and claims caused by order errors from about 30% to 5%. It now runs natively in our CRM, maintained by our developers.
+- **AI support triage agent** (Claude Sonnet and Opus, MCP). Resolves support tickets on its own when it is at least 95% confident and routes the rest to the right person.
+- **AI quote approver** (n8n, Anthropic API). Reads manufacturer PDF quotes, checks them against orders in the CRM and approves the matches. Review of a 20-quote batch went from up to 200 minutes to under 2.
+- **AI design assistant for Mosaic**, our 3D design software (Chrome extension built with Claude Code, n8n, Anthropic API). Answers designers' questions from a knowledge base while they design.
+- **Freight control tower** (n8n, freight broker API, MCP connector to the CRM). Reconciles orders against shipment tracking and flags late freight, holds and duplicates.
 
-# 🤝 I’m looking to collaborate on:
-Data Engineering, Science, or Analysis projects. Also, highly interested in Machine Learning and AI related projects.
+Together, these automations remove about 200 hours of manual work a month.
 
-# ⚡ Fun facts about me:
-- Fluent in English and Spanish
-- I have dual citizenship: Canadian and Colombian
-- Have lived in 3 countries and visited over 26
-- I did a 3-month intense and immersive leadership program in the back country side of Alaska (Sea Kayaking, Mountaineering, Backpacking)
-- I enjoy talking about anything!
+## Earlier projects
 
-# 📫 How to reach me:
-- <a href="https://www.linkedin.com/in/nicolas-pedrazab/">LinkedIn Profile</a>
-- npedraza092002@gmail.com
+From my MIT Professional Certificate in Data Engineering (2024–2025):
 
+- [Transit Data Application](https://github.com/npedraza09/Transit-Data-Application): real-time bus tracking for MBTA Route 1, built with Flask, MySQL, Debezium change data capture and MongoDB in Docker.
+- [Sensemaking Data Pipeline](https://github.com/npedraza09/Sensemaking-Data-Pipeline): an Airflow pipeline that scrapes and cleans MIT's course catalog and feeds a D3 bubble chart.
+- [Real-Time IoT Data Streaming](https://github.com/npedraza09/Real-Time-IoT-Data-Streaming): a Kafka pipeline from a Python producer to a Node.js web consumer.
+- [Streaming and Analyzing Live Data](https://github.com/npedraza09/Streaming-and-Analyzing-Live-Data): an MQTT sensor stream into ThingsBoard, with alert rules that write to Firebase.
+- [ETL, Analysis and Visualization of MRTS Data](https://github.com/npedraza09/ETL-Analysis-and-Visualization-of-MRTS-Data): SQL and Python analysis of U.S. retail sales trends.
+
+## Tools
+
+- **AI and automation:** Claude (Sonnet, Opus), Claude Code, Anthropic API, MCP, n8n
+- **Code and data:** Python, SQL, JavaScript, Google Apps Script, Google Cloud, Docker, Airflow, Kafka, MySQL, MongoDB, Flask
+
+## About me
+
+Mechanical engineer (Loyola Marymount University) with MIT professional certificates in data engineering and supply chain digitalization. Native Spanish speaker; I grew up in Bogotá and have lived in three countries. I spent three months on a NOLS expedition in the Alaska backcountry: sea kayaking, mountaineering and backpacking.
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/nicolas-pedrazab/) · npedraza092002@gmail.com
